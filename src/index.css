@@ -27,10 +27,8 @@ a:hover {
 }
 
 body {
-  background-image: url(assets/Images/background.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   height: 100vh;
+  background-color: #131520;
   min-height: 100vh;
 }
 

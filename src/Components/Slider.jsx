@@ -17,6 +17,8 @@ function Slider() {
     });
   };
 
+  // Elements for utilizing the chevron placement
+
   const sliderRight = (element) => {
     element.scrollLeft += screenWidth - 110;
   };
