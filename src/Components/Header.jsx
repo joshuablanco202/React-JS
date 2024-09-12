@@ -43,7 +43,7 @@ function Header() {
         <img
           src={logo}
           className="w-[100px] 
-        md:w-[115px] object-cover"
+        md:w-[110px] object-cover"
         />
         <div className="hidden md:flex gap-8">
           {menu.map((item) => (
@@ -73,10 +73,7 @@ function Header() {
           </div>
         </div>
       </div>
-      <img
-        src="https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745"
-        className="w-[40px] rounded-full"
-      />
+      <img src="" className="w-[40px] rounded-full" />
     </div>
   );
 }
