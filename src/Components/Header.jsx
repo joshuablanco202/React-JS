@@ -35,7 +35,7 @@ function Header() {
       icon: HiTv,
     },
     {
-      name: "SEARCH",
+      name: "CATEGORIES",
       icon: HiMagnifyingGlass,
     },
   ];

@@ -15,6 +15,16 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+.search-bar-container {
+  padding-top: 5vh;
+  width: 40%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 200px;
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);

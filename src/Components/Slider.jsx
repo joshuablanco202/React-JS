@@ -17,7 +17,7 @@ function Slider() {
     });
   };
 
-  // Elements for utilizing the chevron placement
+  // Elements for utilizing the chevron placement "You must adjust this later"
 
   const sliderRight = (element) => {
     element.scrollLeft += screenWidth - 110;
